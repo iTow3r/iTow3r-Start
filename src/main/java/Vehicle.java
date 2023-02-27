@@ -14,7 +14,7 @@ public class Vehicle {
     }
 
     String honk(){
-        return "HONNNK";
+        return "HONNK";
     }
 
 }
